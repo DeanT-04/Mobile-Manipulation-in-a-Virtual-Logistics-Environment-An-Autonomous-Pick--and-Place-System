@@ -18,7 +18,7 @@ It was a fascinating journey bringing all these components together to create a 
 
 Seeing is believing! Check out the full operation of the robot in action:
 
-[![image](https://github.com/user-attachments/assets/4f52886b-9b37-488b-9c67-d18dc446391c)](https://youtu.be/Nke4raYkS_U)]
+[![Untitled design (2)](https://github.com/user-attachments/assets/7c5b8e36-cced-4371-9ee3-e553b7a123b4)](https://youtu.be/Nke4raYkS_U)
 
 
 ## ✨ Key Features & Technologies
